@@ -1,0 +1,28 @@
+{
+  "name": "net-pcm",
+  "version": "1.0.0",
+  "description": "PCM audio streaming",
+  "main": "index.js",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emersion/node-net-pcm.git"
+  },
+  "keywords": [
+    "pcm",
+    "audio",
+    "stream"
+  ],
+  "author": "emersion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emersion/node-net-pcm/issues"
+  },
+  "homepage": "https://github.com/emersion/node-net-pcm",
+  "dependencies": {
+    "pulseaudio": "0.0.1",
+    "speaker": "^0.2.1"
+  }
+}
